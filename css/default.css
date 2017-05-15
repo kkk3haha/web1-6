@@ -32,7 +32,7 @@ dt{
 
 
 .btn:hover{
-  opacity: 2.0;
+  opacity: 1.0;
 }
 .btn:active{
   color: green;
