@@ -75,11 +75,12 @@ caption{
 }
 
 thead th,thead th{
-  background-color: black;
+  background-color: white;
   
 }
 thead td{
   color: white;
+  background-color: red;
   text-align: center;
 }
 
