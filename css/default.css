@@ -4,6 +4,11 @@
   float: left;
   margin=right: 30px;
 }
+.curry_p:after{
+  content: "";
+  clear:both;
+  display: block;
+}
 
 .btn{
   -webkit-appearance: none;
