@@ -1,1 +1,75 @@
+@charset "UTF-8";
 
+.curry{
+  float: left;
+  margin=right: 30px;
+}
+
+.btn{
+  -webkit-appearance: none;
+  -webkit-border-radius: 10;
+  margin: 5px;
+  width: 60px;
+  height: 40px;
+  padding: 10px;
+  border: none;
+  font-size:14px;
+}
+
+
+.btn:hover{
+  opacity: 2.0;
+}
+.btn:active{
+  color: green;
+}
+
+.btn-understand{
+  background-color: red;
+}
+
+.btn-again{
+  background-color: gray;
+}
+
+#mytable{
+  border: 2px solid red;
+  border-collapse: collapse;
+}
+
+th{
+  border: 1px solid red;
+  background-color: mistyrose;
+  padding: 10px;
+  width: 120;
+  text-align: center;
+}
+
+td{
+  border: 1px solid red;
+  padding: 5px;
+  width: 80px;
+  text-align: right;
+}
+
+caption{
+  padding: 5px;
+}
+
+#price{
+  background-color: lightyellow;
+}
+
+thead th,thead th{
+  background-color: white;
+  
+}
+thead td{
+  color: white;
+  text-align: center;
+}
+
+thead td{
+  font-weight: bold;
+  background-color: white;
+}
