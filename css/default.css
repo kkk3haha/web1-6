@@ -88,4 +88,5 @@ thead td{
 tfoot td{
   font-weight: bold;
   background-color: white;
+  text-align: right;
 }
