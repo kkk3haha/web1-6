@@ -51,7 +51,7 @@ dt{
   border-collapse: collapse;
 }
 
-th{
+tbody th{
   border: 1px solid red;
   background-color: mistyrose;
   padding: 10px;
@@ -59,8 +59,9 @@ th{
   text-align: center;
 }
 
-td{
+tbody td{
   border: 1px solid red;
+  background-color: mistyrose;
   padding: 5px;
   width: 80px;
   text-align: right;
